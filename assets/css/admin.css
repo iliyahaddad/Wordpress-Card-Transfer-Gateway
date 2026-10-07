@@ -1,0 +1,10 @@
+.wcctc-alert{padding:8px 10px;margin:8px 0;border-left:4px solid #dba617;background:#fcf9e8}
+.wcctc-alert.is-danger{border-color:#d63638;background:#fcf0f1}
+.wcctc-badge{display:inline-block;padding:1px 8px;border-radius:10px;background:#dcdcde;font-size:12px}
+.wcctc-badge.approved{background:#c6e1c6}.wcctc-badge.rejected{background:#f5c6c6}.wcctc-badge.pending{background:#f8e3a1}
+.wcctc-review textarea{width:100%;margin:6px 0}
+.wcctc-review .button{margin-right:4px}
+.wcctc-review-msg{display:block;margin-top:6px;color:#b32d2e}
+.wcctc-checks span{margin-right:10px}
+.wcctc-ocr-text{max-height:140px;overflow:auto;white-space:pre-wrap;background:#f6f7f7;padding:6px;font-size:12px}
+.wcctc-inline-form{display:inline}

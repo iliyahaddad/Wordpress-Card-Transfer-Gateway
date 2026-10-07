@@ -1,0 +1,12 @@
+.wcctc-payment-box .wcctc-recipient{background:#f6f7f7;border:1px solid #dcdcde;border-radius:4px;padding:.75em 1em;margin:0 0 1em}
+.wcctc-payment-box .wcctc-recipient p{margin:.25em 0}
+.wcctc-value{font-weight:600;direction:ltr;unicode-bidi:isolate;word-break:break-all}
+.wcctc-payment-box small,.wcctc-field small{display:block;opacity:.8;margin-top:.25em}
+.wcctc-field{margin:0 0 1em}
+.wcctc-field label{display:block;margin-bottom:.25em}
+.wcctc-field input.input-text,.wcctc-payment-box input.input-text{width:100%}
+.wcctc-upload-status.wcctc-error,.wcctc-error{color:#b32d2e}
+.wcctc-upload{margin:1.5em 0}
+.wcctc-notice{margin:1em 0}
+.wcctc-thankyou .wcctc-recipient{background:#f6f7f7;border:1px solid #dcdcde;padding:.75em 1em;margin:1em 0}
+[dir="rtl"] .wcctc-payment-box{text-align:right}

@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Card Transfer Gateway 2.1.0\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Receipt upload failed."
+msgstr ""
+
+msgid "Receipt must be 5 MB or smaller."
+msgstr ""
+
+msgid "Only JPG, PNG, WebP or PDF receipts are allowed."
+msgstr ""
+
+msgid "This receipt file has already been used for another order. Please upload the correct receipt."
+msgstr ""
+
+msgid "Could not store the receipt. Please try again later."
+msgstr ""
+
+msgid "The uploaded receipt expired. Please upload it again."
+msgstr ""
+
+msgid "Receipt upload is not available."
+msgstr ""
+
+msgid "Too many uploads. Please try again later."
+msgstr ""
+
+msgid "Customer uploaded a transfer receipt."
+msgstr ""
+
+msgid "Receipt uploaded. It will be reviewed shortly."
+msgstr ""
+
+msgid "Transfer receipt"
+msgstr ""
+
+msgid "Current receipt: %s"
+msgstr ""
+
+msgid "Replace receipt"
+msgstr ""
+
+msgid "Upload receipt"
+msgstr ""
+
+msgid "JPG, PNG, WebP or PDF; maximum 5 MB. Do not upload card credentials."
+msgstr ""
+
+msgid "Security check failed."
+msgstr ""
+
+msgid "Not authorized."
+msgstr ""
+
+msgid "Receipt not found."
+msgstr ""
+
+msgid "When you pay by manual transfer we store the transfer reference, the optional sender name and last four card digits, and the receipt file you upload (in a private folder). If OCR is enabled by the store, the receipt image is sent to the configured OCR provider. If you pay with Stripe, card details are entered on Stripe and never reach this site."
+msgstr ""
+
+msgid "WooCommerce transfer payment data"
+msgstr ""
+
+msgid "Transfer payment"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Reference"
+msgstr ""
+
+msgid "Sender name"
+msgstr ""
+
+msgid "Sender card last 4"
+msgstr ""
+
+msgid "Receipt file"
+msgstr ""
+
+msgid "Iran card-to-card transfer"
+msgstr ""
+
+msgid "International payment / transfer"
+msgstr ""
+
+msgid "Transfer the exact amount to the receiving card, then submit your bank reference and receipt."
+msgstr ""
+
+msgid "Choose manual transfer or automated Stripe Checkout."
+msgstr ""
+
+msgid "Bank tracking / transaction reference"
+msgstr ""
+
+msgid "Transfer reference"
+msgstr ""
+
+msgid "Used for reconciliation; it is not proof of payment by itself."
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Card:"
+msgstr ""
+
+msgid "Bank:"
+msgstr ""
+
+msgid "Account / IBAN:"
+msgstr ""
+
+msgid "SWIFT/BIC:"
+msgstr ""
+
+msgid "Transfer destination"
+msgstr ""
+
+msgid "This is not a manual transfer order."
+msgstr ""
+
+msgid "This order was already approved."
+msgstr ""
+
+msgid "A paid or approved order cannot be rejected or reset. Use a refund instead."
+msgstr ""
+
+msgid "Transfer payment manually verified and approved by an administrator."
+msgstr ""
+
+msgid "Transfer payment rejected during manual verification."
+msgstr ""
+
+msgid "Transfer payment remains pending manual verification."
+msgstr ""
+
+msgid "Transfers"
+msgstr ""
+
+msgid "Iran gateway"
+msgstr ""
+
+msgid "International gateway"
+msgstr ""
+
+msgid "Transfer payments"
+msgstr ""
+
+msgid "Reject this transfer? The order will be marked as failed."
+msgstr ""
+
+msgid "Request failed. Please try again."
+msgstr ""
+
+msgid "Transfer payment review"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "This order was not paid with a transfer gateway."
+msgstr ""
+
+msgid "Stripe"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
+
+msgid "Reference:"
+msgstr ""
+
+msgid "Sender:"
+msgstr ""
+
+msgid "Card last 4:"
+msgstr ""
+
+msgid "Expected amount:"
+msgstr ""
+
+msgid "The same receipt file was submitted for another order: %s"
+msgstr ""
+
+msgid "The same reference is used by another order: %s"
+msgstr ""
+
+msgid "Download receipt"
+msgstr ""
+
+msgid "No receipt has been uploaded yet."
+msgstr ""
+
+msgid "This order is approved/paid. Use a refund for any reversal."
+msgstr ""
+
+msgid "Internal note (optional)"
+msgstr ""
+
+msgid "Send the note to the customer"
+msgstr ""
+
+msgid "Approve payment"
+msgstr ""
+
+msgid "Reject"
+msgstr ""
+
+msgid "Keep pending"
+msgstr ""
+
+msgid "OCR:"
+msgstr ""
+
+msgid "(a hint only; verify the funds in your bank)"
+msgstr ""
+
+msgid "Recipient card"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Recognized text"
+msgstr ""
+
+msgid "Saved."
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Audit log"
+msgstr ""
+
+msgid "The review could not be saved."
+msgstr ""
+
+msgid "Export CSV"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Review"
+msgstr ""
+
+msgid "Receipt"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "No orders found."
+msgstr ""
+
+msgid "duplicate"
+msgstr ""
+
+msgid "All actions"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Date (UTC)"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "No entries."
+msgstr ""
+
+msgid "Webhook processing failed."
+msgstr ""
+
+msgid "Stripe Checkout payment confirmed."
+msgstr ""
+
+msgid "Stripe Checkout completed; waiting for the payment method to confirm funds."
+msgstr ""
+
+msgid "Stripe payment succeeded."
+msgstr ""
+
+msgid "Stripe payment failed."
+msgstr ""
+
+msgid "Stripe Checkout session expired without payment."
+msgstr ""
+
+msgid "Stripe reports a refund (total refunded on charge: %s). Check WooCommerce refunds if it was issued from the Stripe dashboard."
+msgstr ""
+
+msgid "Stripe dispute opened for this payment. Review it in the Stripe dashboard before the evidence deadline."
+msgstr ""
+
+msgid "Stripe request failed."
+msgstr ""
+
+msgid "Stripe secret key is not configured."
+msgstr ""
+
+msgid "Invalid order amount."
+msgstr ""
+
+msgid "WooCommerce order #%s"
+msgstr ""
+
+msgid "No provider payment ID is stored for this order."
+msgstr ""
+
+msgid "Webhook signing secret is not configured."
+msgstr ""
+
+msgid "Missing Stripe signature."
+msgstr ""
+
+msgid "Invalid or expired Stripe webhook signature."
+msgstr ""
+
+msgid "Invalid Stripe webhook signature."
+msgstr ""
+
+msgid "Invalid webhook payload."
+msgstr ""
+
+msgid "Uploading…"
+msgstr ""
+
+msgid "Receipt attached:"
+msgstr ""
+
+msgid "Customer returned from Stripe Checkout. Waiting for webhook confirmation."
+msgstr ""
+
+msgid "Your payment was confirmed. Thank you!"
+msgstr ""
+
+msgid "We are waiting for Stripe to confirm your payment. This page does not change the order status; you will receive an e-mail once it is confirmed."
+msgstr ""
+
+msgid "Your transfer was verified. Thank you!"
+msgstr ""
+
+msgid "Transfer details"
+msgstr ""
+
+msgid "Please transfer exactly %s."
+msgstr ""
+
+msgid "Your reference:"
+msgstr ""
+
+msgid "Your order will be processed after we verify the transfer."
+msgstr ""
+
+msgid "Receipt OCR finished. Reference: %1$s, recipient card: %2$s, amount: %3$s. OCR is only a hint; verify the funds yourself."
+msgstr ""
+
+msgid "Customers pay by transfer and a store manager verifies the payment."
+msgstr ""
+
+msgid "Enable/Disable"
+msgstr ""
+
+msgid "Enable this gateway"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Shown to customers at checkout."
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Allowed currencies"
+msgstr ""
+
+msgid "Optional, comma separated (e.g. IRR, IRT). Leave empty to allow every store currency."
+msgstr ""
+
+msgid "Recipient name"
+msgstr ""
+
+msgid "Recipient card number"
+msgstr ""
+
+msgid "Bank name"
+msgstr ""
+
+msgid "Account number / IBAN"
+msgstr ""
+
+msgid "Extra instructions"
+msgstr ""
+
+msgid "Reference field label"
+msgstr ""
+
+msgid "Reference help text"
+msgstr ""
+
+msgid "Reference required"
+msgstr ""
+
+msgid "Require a bank/transfer reference"
+msgstr ""
+
+msgid "Ask for the sender name"
+msgstr ""
+
+msgid "Ask for the last four digits of the sender card"
+msgstr ""
+
+msgid "Receipt required"
+msgstr ""
+
+msgid "Require a receipt upload at checkout"
+msgstr ""
+
+msgid "When disabled, customers can still upload the receipt later from the order page."
+msgstr ""
+
+msgid "The recipient card number does not pass the checksum test. Please double-check it."
+msgstr ""
+
+msgid "You will be redirected to Stripe to complete the payment securely."
+msgstr ""
+
+msgid "Last 4 digits of the sender card"
+msgstr ""
+
+msgid "Please enter the bank transfer reference."
+msgstr ""
+
+msgid "This transfer reference was already submitted. Please check it and try again."
+msgstr ""
+
+msgid "Sender card last 4 digits must be exactly four digits."
+msgstr ""
+
+msgid "Please upload the transfer receipt."
+msgstr ""
+
+msgid "Awaiting manual verification of the transfer payment."
+msgstr ""
+
+msgid "Could not start the Stripe payment. Please try again or choose another payment method."
+msgstr ""
+
+msgid "Stripe did not return a payment page. Please try again."
+msgstr ""
+
+msgid "Order not found."
+msgstr ""
+
+msgid "Enter a refund amount greater than zero."
+msgstr ""
+
+msgid "Refunded %1$s via Stripe (refund %2$s)."
+msgstr ""
+
+msgid "Manual transfer refund of %s recorded. Send the money back to the customer yourself."
+msgstr ""
+
+msgid "Receipt OCR"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Optional hint for reviewers; applies to all manual receipts. The receipt image is sent to the provider."
+msgstr ""
+
+msgid "OCR API key"
+msgstr ""
+
+msgid "Or define WCCTC_OCR_API_KEY in wp-config.php."
+msgstr ""
+
+msgid "OCR language"
+msgstr ""
+
+msgid "OCR.space language code, e.g. eng or ara. Check the provider for supported languages."
+msgstr ""
+
+msgid "SWIFT/BIC"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Manual bank transfer"
+msgstr ""
+
+msgid "Stripe Checkout (automatic)"
+msgstr ""
+
+msgid "Stripe secret key"
+msgstr ""
+
+msgid "sk_… or restricted rk_… key. Or define WCCTC_STRIPE_SECRET_KEY in wp-config.php."
+msgstr ""
+
+msgid "Stripe webhook secret"
+msgstr ""
+
+msgid "Webhook endpoint: %s — events: checkout.session.completed, checkout.session.async_payment_succeeded, checkout.session.async_payment_failed, checkout.session.expired, payment_intent.succeeded, payment_intent.payment_failed, charge.refunded, charge.dispute.created. Or define WCCTC_STRIPE_WEBHOOK_SECRET."
+msgstr ""
+
+msgid "The Stripe secret key must start with sk_test_, sk_live_, rk_test_ or rk_live_. The previous value was kept."
+msgstr ""
+
+msgid "WC Card Transfer Gateway requires WooCommerce to be installed and active."
+msgstr ""
+

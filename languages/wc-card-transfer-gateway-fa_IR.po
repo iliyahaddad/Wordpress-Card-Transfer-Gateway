@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Card Transfer Gateway 2.1.0\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Receipt upload failed."
+msgstr "بارگذاری رسید ناموفق بود."
+
+msgid "Receipt must be 5 MB or smaller."
+msgstr "حجم رسید باید حداکثر ۵ مگابایت باشد."
+
+msgid "Only JPG, PNG, WebP or PDF receipts are allowed."
+msgstr "فقط رسید با فرمت JPG، PNG، WebP یا PDF مجاز است."
+
+msgid "This receipt file has already been used for another order. Please upload the correct receipt."
+msgstr "این فایل رسید قبلاً برای سفارش دیگری استفاده شده است. لطفاً رسید صحیح را بارگذاری کنید."
+
+msgid "Could not store the receipt. Please try again later."
+msgstr "ذخیره رسید ممکن نشد. لطفاً بعداً دوباره تلاش کنید."
+
+msgid "The uploaded receipt expired. Please upload it again."
+msgstr "رسید بارگذاری‌شده منقضی شده است. لطفاً دوباره بارگذاری کنید."
+
+msgid "Receipt upload is not available."
+msgstr "بارگذاری رسید در دسترس نیست."
+
+msgid "Too many uploads. Please try again later."
+msgstr "تعداد بارگذاری‌ها زیاد است. بعداً دوباره تلاش کنید."
+
+msgid "Customer uploaded a transfer receipt."
+msgstr "مشتری رسید انتقال را بارگذاری کرد."
+
+msgid "Receipt uploaded. It will be reviewed shortly."
+msgstr "رسید بارگذاری شد و به‌زودی بررسی می‌شود."
+
+msgid "Transfer receipt"
+msgstr "رسید انتقال"
+
+msgid "Current receipt: %s"
+msgstr "رسید فعلی: %s"
+
+msgid "Replace receipt"
+msgstr "جایگزینی رسید"
+
+msgid "Upload receipt"
+msgstr "بارگذاری رسید"
+
+msgid "JPG, PNG, WebP or PDF; maximum 5 MB. Do not upload card credentials."
+msgstr "JPG، PNG، WebP یا PDF؛ حداکثر ۵ مگابایت. اطلاعات محرمانه کارت (CVV2 و رمز) را ارسال نکنید."
+
+msgid "Security check failed."
+msgstr "بررسی امنیتی ناموفق بود."
+
+msgid "Not authorized."
+msgstr "دسترسی مجاز نیست."
+
+msgid "Receipt not found."
+msgstr "رسید پیدا نشد."
+
+msgid "When you pay by manual transfer we store the transfer reference, the optional sender name and last four card digits, and the receipt file you upload (in a private folder). If OCR is enabled by the store, the receipt image is sent to the configured OCR provider. If you pay with Stripe, card details are entered on Stripe and never reach this site."
+msgstr ""
+
+msgid "WooCommerce transfer payment data"
+msgstr ""
+
+msgid "Transfer payment"
+msgstr ""
+
+msgid "Order"
+msgstr "سفارش"
+
+msgid "Reference"
+msgstr "مرجع"
+
+msgid "Sender name"
+msgstr "نام فرستنده"
+
+msgid "Sender card last 4"
+msgstr "چهار رقم آخر کارت فرستنده"
+
+msgid "Receipt file"
+msgstr ""
+
+msgid "Iran card-to-card transfer"
+msgstr "کارت‌به‌کارت ایران"
+
+msgid "International payment / transfer"
+msgstr "پرداخت / انتقال بین‌المللی"
+
+msgid "Transfer the exact amount to the receiving card, then submit your bank reference and receipt."
+msgstr "مبلغ دقیق را به کارت مقصد واریز کنید، سپس شماره پیگیری و رسید را ثبت کنید."
+
+msgid "Choose manual transfer or automated Stripe Checkout."
+msgstr ""
+
+msgid "Bank tracking / transaction reference"
+msgstr "شماره پیگیری / مرجع تراکنش بانکی"
+
+msgid "Transfer reference"
+msgstr "مرجع انتقال"
+
+msgid "Used for reconciliation; it is not proof of payment by itself."
+msgstr "برای تطبیق تراکنش استفاده می‌شود؛ به‌تنهایی اثبات پرداخت نیست."
+
+msgid "Name:"
+msgstr "نام:"
+
+msgid "Card:"
+msgstr "کارت:"
+
+msgid "Bank:"
+msgstr "بانک:"
+
+msgid "Account / IBAN:"
+msgstr "حساب / شبا:"
+
+msgid "SWIFT/BIC:"
+msgstr "سوئیفت:"
+
+msgid "Transfer destination"
+msgstr "مقصد انتقال"
+
+msgid "This is not a manual transfer order."
+msgstr "این سفارش، سفارش انتقال دستی نیست."
+
+msgid "This order was already approved."
+msgstr "این سفارش قبلاً تأیید شده است."
+
+msgid "A paid or approved order cannot be rejected or reset. Use a refund instead."
+msgstr "سفارش پرداخت‌شده یا تأییدشده را نمی‌توان رد یا بازنشانی کرد. به‌جای آن بازپرداخت انجام دهید."
+
+msgid "Transfer payment manually verified and approved by an administrator."
+msgstr "پرداخت انتقالی توسط مدیر به‌صورت دستی بررسی و تأیید شد."
+
+msgid "Transfer payment rejected during manual verification."
+msgstr "پرداخت انتقالی در بررسی دستی رد شد."
+
+msgid "Transfer payment remains pending manual verification."
+msgstr "پرداخت انتقالی همچنان در انتظار بررسی دستی است."
+
+msgid "Transfers"
+msgstr "انتقال‌ها"
+
+msgid "Iran gateway"
+msgstr "درگاه ایران"
+
+msgid "International gateway"
+msgstr "درگاه بین‌المللی"
+
+msgid "Transfer payments"
+msgstr "پرداخت‌های انتقالی"
+
+msgid "Reject this transfer? The order will be marked as failed."
+msgstr "این انتقال رد شود؟ سفارش به‌عنوان ناموفق علامت‌گذاری می‌شود."
+
+msgid "Request failed. Please try again."
+msgstr "درخواست ناموفق بود. دوباره تلاش کنید."
+
+msgid "Transfer payment review"
+msgstr "بررسی پرداخت انتقالی"
+
+msgid "Pending"
+msgstr "در انتظار"
+
+msgid "Approved"
+msgstr "تأییدشده"
+
+msgid "Rejected"
+msgstr "ردشده"
+
+msgid "This order was not paid with a transfer gateway."
+msgstr "این سفارش با درگاه انتقال پرداخت نشده است."
+
+msgid "Stripe"
+msgstr ""
+
+msgid "Status:"
+msgstr "وضعیت:"
+
+msgid "Reference:"
+msgstr "مرجع:"
+
+msgid "Sender:"
+msgstr "فرستنده:"
+
+msgid "Card last 4:"
+msgstr "چهار رقم آخر کارت:"
+
+msgid "Expected amount:"
+msgstr "مبلغ مورد انتظار:"
+
+msgid "The same receipt file was submitted for another order: %s"
+msgstr ""
+
+msgid "The same reference is used by another order: %s"
+msgstr ""
+
+msgid "Download receipt"
+msgstr "دانلود رسید"
+
+msgid "No receipt has been uploaded yet."
+msgstr "هنوز رسیدی بارگذاری نشده است."
+
+msgid "This order is approved/paid. Use a refund for any reversal."
+msgstr "این سفارش تأیید/پرداخت شده است. برای هر بازگشتی از بازپرداخت استفاده کنید."
+
+msgid "Internal note (optional)"
+msgstr "یادداشت داخلی (اختیاری)"
+
+msgid "Send the note to the customer"
+msgstr "ارسال یادداشت به مشتری"
+
+msgid "Approve payment"
+msgstr "تأیید پرداخت"
+
+msgid "Reject"
+msgstr "رد"
+
+msgid "Keep pending"
+msgstr "ماندن در انتظار"
+
+msgid "OCR:"
+msgstr "OCR:"
+
+msgid "(a hint only; verify the funds in your bank)"
+msgstr "(فقط یک راهنما؛ واریز را در حساب بانکی خود بررسی کنید)"
+
+msgid "Recipient card"
+msgstr "کارت مقصد"
+
+msgid "Amount"
+msgstr "مبلغ"
+
+msgid "Recognized text"
+msgstr "متن تشخیص‌داده‌شده"
+
+msgid "Saved."
+msgstr "ذخیره شد."
+
+msgid "All"
+msgstr "همه"
+
+msgid "Audit log"
+msgstr "گزارش حسابرسی"
+
+msgid "The review could not be saved."
+msgstr "بررسی ذخیره نشد."
+
+msgid "Export CSV"
+msgstr "خروجی CSV"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Total"
+msgstr "جمع"
+
+msgid "Review"
+msgstr "بررسی"
+
+msgid "Receipt"
+msgstr "رسید"
+
+msgid "Actions"
+msgstr "اقدامات"
+
+msgid "No orders found."
+msgstr "سفارشی یافت نشد."
+
+msgid "duplicate"
+msgstr "تکراری"
+
+msgid "All actions"
+msgstr "همه اقدامات"
+
+msgid "Filter"
+msgstr "فیلتر"
+
+msgid "Date (UTC)"
+msgstr "تاریخ (UTC)"
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "Action"
+msgstr "اقدام"
+
+msgid "Details"
+msgstr "جزئیات"
+
+msgid "No entries."
+msgstr "موردی وجود ندارد."
+
+msgid "Webhook processing failed."
+msgstr ""
+
+msgid "Stripe Checkout payment confirmed."
+msgstr ""
+
+msgid "Stripe Checkout completed; waiting for the payment method to confirm funds."
+msgstr ""
+
+msgid "Stripe payment succeeded."
+msgstr ""
+
+msgid "Stripe payment failed."
+msgstr ""
+
+msgid "Stripe Checkout session expired without payment."
+msgstr ""
+
+msgid "Stripe reports a refund (total refunded on charge: %s). Check WooCommerce refunds if it was issued from the Stripe dashboard."
+msgstr ""
+
+msgid "Stripe dispute opened for this payment. Review it in the Stripe dashboard before the evidence deadline."
+msgstr ""
+
+msgid "Stripe request failed."
+msgstr ""
+
+msgid "Stripe secret key is not configured."
+msgstr ""
+
+msgid "Invalid order amount."
+msgstr ""
+
+msgid "WooCommerce order #%s"
+msgstr ""
+
+msgid "No provider payment ID is stored for this order."
+msgstr ""
+
+msgid "Webhook signing secret is not configured."
+msgstr ""
+
+msgid "Missing Stripe signature."
+msgstr ""
+
+msgid "Invalid or expired Stripe webhook signature."
+msgstr ""
+
+msgid "Invalid Stripe webhook signature."
+msgstr ""
+
+msgid "Invalid webhook payload."
+msgstr ""
+
+msgid "Uploading…"
+msgstr "در حال بارگذاری…"
+
+msgid "Receipt attached:"
+msgstr "رسید پیوست شد:"
+
+msgid "Customer returned from Stripe Checkout. Waiting for webhook confirmation."
+msgstr ""
+
+msgid "Your payment was confirmed. Thank you!"
+msgstr "پرداخت شما تأیید شد. سپاسگزاریم!"
+
+msgid "We are waiting for Stripe to confirm your payment. This page does not change the order status; you will receive an e-mail once it is confirmed."
+msgstr "منتظر تأیید پرداخت از سوی Stripe هستیم. این صفحه وضعیت سفارش را تغییر نمی‌دهد؛ پس از تأیید ایمیل دریافت می‌کنید."
+
+msgid "Your transfer was verified. Thank you!"
+msgstr "انتقال شما تأیید شد. سپاسگزاریم!"
+
+msgid "Transfer details"
+msgstr "جزئیات انتقال"
+
+msgid "Please transfer exactly %s."
+msgstr "لطفاً دقیقاً مبلغ %s را منتقل کنید."
+
+msgid "Your reference:"
+msgstr "شماره پیگیری شما:"
+
+msgid "Your order will be processed after we verify the transfer."
+msgstr "سفارش شما پس از تأیید انتقال پردازش می‌شود."
+
+msgid "Receipt OCR finished. Reference: %1$s, recipient card: %2$s, amount: %3$s. OCR is only a hint; verify the funds yourself."
+msgstr ""
+
+msgid "Customers pay by transfer and a store manager verifies the payment."
+msgstr ""
+
+msgid "Enable/Disable"
+msgstr "فعال/غیرفعال"
+
+msgid "Enable this gateway"
+msgstr "فعال‌سازی این درگاه"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Shown to customers at checkout."
+msgstr "در صفحه پرداخت به مشتری نمایش داده می‌شود."
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Allowed currencies"
+msgstr "ارزهای مجاز"
+
+msgid "Optional, comma separated (e.g. IRR, IRT). Leave empty to allow every store currency."
+msgstr "اختیاری، جداشده با کاما (مثلاً IRR, IRT). برای پذیرش همه ارزها خالی بگذارید."
+
+msgid "Recipient name"
+msgstr "نام صاحب کارت مقصد"
+
+msgid "Recipient card number"
+msgstr "شماره کارت مقصد"
+
+msgid "Bank name"
+msgstr "نام بانک"
+
+msgid "Account number / IBAN"
+msgstr "شماره حساب / شبا"
+
+msgid "Extra instructions"
+msgstr "راهنمای اضافی"
+
+msgid "Reference field label"
+msgstr "برچسب فیلد مرجع"
+
+msgid "Reference help text"
+msgstr "متن راهنمای فیلد مرجع"
+
+msgid "Reference required"
+msgstr "اجباری بودن مرجع"
+
+msgid "Require a bank/transfer reference"
+msgstr "دریافت شماره پیگیری الزامی باشد"
+
+msgid "Ask for the sender name"
+msgstr "نام فرستنده پرسیده شود"
+
+msgid "Ask for the last four digits of the sender card"
+msgstr "چهار رقم آخر کارت فرستنده پرسیده شود"
+
+msgid "Receipt required"
+msgstr "اجباری بودن رسید"
+
+msgid "Require a receipt upload at checkout"
+msgstr "بارگذاری رسید در صفحه پرداخت الزامی باشد"
+
+msgid "When disabled, customers can still upload the receipt later from the order page."
+msgstr "در حالت غیرفعال، مشتری همچنان می‌تواند بعداً از صفحه سفارش رسید را بارگذاری کند."
+
+msgid "The recipient card number does not pass the checksum test. Please double-check it."
+msgstr "شماره کارت مقصد در آزمون صحت (Luhn) رد شد. لطفاً دوباره بررسی کنید."
+
+msgid "You will be redirected to Stripe to complete the payment securely."
+msgstr "برای تکمیل امن پرداخت به Stripe هدایت می‌شوید."
+
+msgid "Last 4 digits of the sender card"
+msgstr "چهار رقم آخر کارت فرستنده"
+
+msgid "Please enter the bank transfer reference."
+msgstr "لطفاً شماره پیگیری/مرجع تراکنش بانکی را وارد کنید."
+
+msgid "This transfer reference was already submitted. Please check it and try again."
+msgstr "این شماره پیگیری قبلاً ثبت شده است. لطفاً آن را بررسی و دوباره تلاش کنید."
+
+msgid "Sender card last 4 digits must be exactly four digits."
+msgstr "چهار رقم آخر کارت فرستنده باید دقیقاً چهار رقم باشد."
+
+msgid "Please upload the transfer receipt."
+msgstr "لطفاً رسید انتقال را بارگذاری کنید."
+
+msgid "Awaiting manual verification of the transfer payment."
+msgstr "در انتظار بررسی دستی پرداخت انتقالی."
+
+msgid "Could not start the Stripe payment. Please try again or choose another payment method."
+msgstr "شروع پرداخت Stripe ممکن نشد. لطفاً دوباره تلاش کنید یا روش پرداخت دیگری انتخاب کنید."
+
+msgid "Stripe did not return a payment page. Please try again."
+msgstr "Stripe صفحه پرداخت را برنگرداند. لطفاً دوباره تلاش کنید."
+
+msgid "Order not found."
+msgstr "سفارش پیدا نشد."
+
+msgid "Enter a refund amount greater than zero."
+msgstr "مبلغ بازپرداخت باید بیشتر از صفر باشد."
+
+msgid "Refunded %1$s via Stripe (refund %2$s)."
+msgstr ""
+
+msgid "Manual transfer refund of %s recorded. Send the money back to the customer yourself."
+msgstr ""
+
+msgid "Receipt OCR"
+msgstr "تشخیص متن رسید (OCR)"
+
+msgid "Disabled"
+msgstr "غیرفعال"
+
+msgid "Optional hint for reviewers; applies to all manual receipts. The receipt image is sent to the provider."
+msgstr ""
+
+msgid "OCR API key"
+msgstr "کلید API سرویس OCR"
+
+msgid "Or define WCCTC_OCR_API_KEY in wp-config.php."
+msgstr ""
+
+msgid "OCR language"
+msgstr "زبان OCR"
+
+msgid "OCR.space language code, e.g. eng or ara. Check the provider for supported languages."
+msgstr ""
+
+msgid "SWIFT/BIC"
+msgstr ""
+
+msgid "Mode"
+msgstr "حالت"
+
+msgid "Manual bank transfer"
+msgstr "انتقال دستی بانکی"
+
+msgid "Stripe Checkout (automatic)"
+msgstr "Stripe Checkout (خودکار)"
+
+msgid "Stripe secret key"
+msgstr "کلید محرمانه Stripe"
+
+msgid "sk_… or restricted rk_… key. Or define WCCTC_STRIPE_SECRET_KEY in wp-config.php."
+msgstr ""
+
+msgid "Stripe webhook secret"
+msgstr "رمز وب‌هوک Stripe"
+
+msgid "Webhook endpoint: %s — events: checkout.session.completed, checkout.session.async_payment_succeeded, checkout.session.async_payment_failed, checkout.session.expired, payment_intent.succeeded, payment_intent.payment_failed, charge.refunded, charge.dispute.created. Or define WCCTC_STRIPE_WEBHOOK_SECRET."
+msgstr ""
+
+msgid "The Stripe secret key must start with sk_test_, sk_live_, rk_test_ or rk_live_. The previous value was kept."
+msgstr ""
+
+msgid "WC Card Transfer Gateway requires WooCommerce to be installed and active."
+msgstr "افزونه WC Card Transfer Gateway نیاز به نصب و فعال بودن ووکامرس دارد."
+
